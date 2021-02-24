@@ -27,7 +27,7 @@ interface GetSomeDataResult {
 
 const mock: OperationNameMockedResponse<GetSomeDataResult> = {
   request: {
-    operationName: "getSomeData",
+    operationName: "myQuery",
     query: gql`
       query myQuery {
         getSomeData {
