@@ -3,6 +3,9 @@
   "version": "0.0.2",
   "description": "Mock Apollo queries based on operation name (instead of query and variables)",
   "main": "./dist/mockLink.js",
+  "files": [
+    "dist/"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc"
