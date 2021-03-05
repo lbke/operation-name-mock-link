@@ -1,6 +1,6 @@
 {
   "name": "operation-name-mock-link",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Mock Apollo queries based on operation name (instead of query and variables)",
   "main": "./dist/mockLink.js",
   "files": [
