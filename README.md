@@ -17,7 +17,7 @@ But it is fine in most scenarios.
 import {
   OperationNameMockedResponse,
   OperationNameMockLink
-} from "operatrion-name-mock-link";
+} from "operation-name-mock-link";
 
 interface GetSomeDataResult {
   getSomeData: {
