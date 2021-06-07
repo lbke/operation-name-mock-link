@@ -14,9 +14,11 @@ But it is fine in most scenarios.
 ## Usage
 
 ```tsx
+import { MockedProvider } from "@apollo/client/testing";
 import {
   OperationNameMockedResponse,
-  OperationNameMockLink
+  OperationNameMockLink,
+  
 } from "operation-name-mock-link";
 
 interface GetSomeDataResult {
